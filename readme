@@ -1,0 +1,5 @@
+docker run -it --rm <centos>
+
+ctrl + p, ctrl + q
+
+
